@@ -1,7 +1,7 @@
 ### Hi there, I'm Judah - aka [Makinin-DotCom][website] 👋 
 
-[![Website](https://img.shields.io/website?label=makinin.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://makinin.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=makinin.com&style=for-the-badge&url=https%3A%2F%2Fmakinin.com)](https://makinin.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/makinin_audi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakinin_audi&screen_name=makinin_audi)
 
 ## I'm a Developer, and Learner!!
 
